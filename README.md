@@ -1,1 +1,7 @@
-# Text Editor Starter Code
+# Text Editor
+
+## Description
+
+## Installation
+
+## Usage
